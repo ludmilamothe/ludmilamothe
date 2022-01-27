@@ -1,7 +1,7 @@
 ### Oiii! Eu sou a Ludmila Mothé
 
 - 🔭 Hoje trabalho com Data Entry & e Data Analyst
-- 🌱 Estudando Tollkit Anaconda, Docker, Kubernetes, Python, R, SQL
+- 🌱 Estudando Docker, Kubernetes, Python, R, SQL, JavaScript , NodeJs e React
 - 😄 Pronouns: ela/dela
 
 <a href="https://github.com/ludmilamothe">
